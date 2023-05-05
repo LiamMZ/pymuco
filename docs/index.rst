@@ -9,6 +9,7 @@ Welcome to pymuco's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
    AudioConverter
    Chord
    CircleOfFifths
