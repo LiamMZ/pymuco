@@ -25,7 +25,7 @@ Documentation
 The ``AudioConverter`` class
 *****************************
 ```{eval-rst} 
-.. autoclass:: AudioConverter
+.. autoclass:: pymuco.AudioConverter
     :members:
     :undoc-members:
     :show-inheritance:
@@ -34,7 +34,7 @@ The ``AudioConverter`` class
 The ``Chord`` class
 *****************************
 ```{eval-rst} 
-.. autoclass:: Chord
+.. autoclass:: pymuco.Chord
     :members:
     :undoc-members:
     :show-inheritance:
@@ -44,7 +44,7 @@ The ``Chord`` class
 The ``CircleOfFifths`` class
 ***********************************
 ```{eval-rst} 
-.. autoclass:: CircleOfFifths
+.. autoclass:: pymuco.CircleOfFifths
     :members:
     :undoc-members:
     :show-inheritance:
