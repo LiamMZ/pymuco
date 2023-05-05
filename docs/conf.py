@@ -176,12 +176,7 @@ if version_info >= (1, 8):
 
 
 
-if 'html_context' in globals():
-    
-    html_context.update(context)
-    
-else:
-    html_context = context
+html_context = context
 
 # Add custom RTD extension
 if 'extensions' in globals():
