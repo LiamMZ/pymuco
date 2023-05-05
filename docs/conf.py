@@ -13,17 +13,17 @@ source_parsers = {
             '.md': CommonMarkParser,
         }
 master_doc = 'index'
-project = u'pymuco-liam'
+project = u'pymuco'
 copyright = str(datetime.now().year)
 version = 'latest'
 release = 'latest'
 exclude_patterns = ['_build']
 pygments_style = 'sphinx'
-htmlhelp_basename = 'pymuco-liam'
+htmlhelp_basename = 'pymuco'
 html_theme = 'sphinx_rtd_theme'
 file_insertion_enabled = False
 latex_documents = [
-  ('index', 'pymuco-liam.tex', u'pymuco-liam Documentation',
+  ('index', 'pymuco.tex', u'pymuco Documentation',
    u'', 'manual'),
 ]
 
@@ -132,11 +132,11 @@ context = {
     ],
     'subprojects': [ 
     ],
-    'slug': 'pymuco-liam',
-    'name': u'pymuco-liam',
+    'slug': 'pymuco',
+    'name': u'pymuco',
     'rtd_language': u'en',
     'programming_language': u'words',
-    'canonical_url': 'https://pymuco-liam.readthedocs.io/en/latest/',
+    'canonical_url': 'https://pymuco.readthedocs.io/en/latest/',
     'analytics_code': 'None',
     'single_version': False,
     'conf_py_path': '/docs/',
@@ -196,7 +196,7 @@ else:
 if 'branch' == 'external':
     extensions.insert(1, "readthedocs_ext.external_version_warning")
     readthedocs_vcs_url = 'None'
-    readthedocs_build_url = 'https://readthedocs.org/projects/pymuco-liam/builds/20433790/'
+    readthedocs_build_url = 'https://readthedocs.org/projects/pymuco/builds/20433790/'
 
 project_language = 'en'
 
