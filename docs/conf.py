@@ -104,10 +104,7 @@ if (
         and not False
     ):
     theme = importlib.import_module('sphinx_rtd_theme')
-    if 'html_theme_path' in globals():
-        html_theme_path.append(theme.get_html_theme_path())
-    else:
-        html_theme_path = [theme.get_html_theme_path()]
+    html_theme_path = [theme.get_html_theme_path()]
 
 # Define websupport2_base_url and websupport2_static_url
 if globals().get('websupport2_base_url', False):
