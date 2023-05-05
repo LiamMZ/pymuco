@@ -9,8 +9,24 @@ Welcome to pymuco's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   AudioConverter
+   Chord
+   CircleOfFifths
+   Enharmonic
+   EnharmonicMapping
+   Interval
+   KeySignature
+   MIDIUtils
+   MusicComputationNotation
+   MusicData
+   NoteDuration
+   NoteFrequencyConverter
+   NoteMapping
+   Player
+   Scale
+   ScientificPitchNotation
+   Tonality
+   test
 
 Indices and tables
 ==================
