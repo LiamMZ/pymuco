@@ -24,63 +24,76 @@ Documentation
 
 The ``AudioConverter`` class
 *****************************
+```{eval-rst} 
 .. autoclass:: pymuco.AudioConverter
     :members:
     :undoc-members:
     :show-inheritance:
-
+```
 
 The ``Chord`` class
 *****************************
+```{eval-rst} 
 .. autoclass:: pymuco.Chord
     :members:
     :undoc-members:
     :show-inheritance:
+```
 
 
 The ``CircleOfFifths`` class
 ***********************************
+```{eval-rst} 
 .. autoclass:: pymuco.CircleOfFifths
     :members:
     :undoc-members:
     :show-inheritance:
+```
 
 The ``Enharmonic`` class
 *******************************************
+```{eval-rst} 
 .. autoclass:: pymuco.Enharmonic
     :members:
     :undoc-members:
     :show-inheritance:
-
+```
 
 The ``EnharmonicMapping`` class
 *******************************************
+```{eval-rst} 
 .. autoclass:: pymuco.EnharmonicMapping
     :members:
     :undoc-members:
     :show-inheritance:
+```
 
 The ``Interval`` class
 *******************************************
+```{eval-rst} 
 .. autoclass:: pymuco.Interval
     :members:
     :undoc-members:
     :show-inheritance:
+```
 
 The ``KeySignature`` class
 *******************************************
+```{eval-rst} 
 .. autoclass:: pymuco.KeySignature
     :members:
     :undoc-members:
     :show-inheritance:
+```
 
 The ``MIDIUtils`` class
 *******************************************
+```{eval-rst} 
 .. autoclass:: pymuco.MIDIUtils
     :members:
     :undoc-members:
     :show-inheritance:
-
+```
 
 The ``MusicComputationNotation`` class
 *******************************************
