@@ -25,7 +25,7 @@ Documentation
 The ``AudioConverter`` class
 *****************************
 ```{eval-rst} 
-.. autoclass:: pymuco.AudioConverter
+.. autoclass:: AudioConverter
     :members:
     :undoc-members:
     :show-inheritance:
@@ -34,7 +34,7 @@ The ``AudioConverter`` class
 The ``Chord`` class
 *****************************
 ```{eval-rst} 
-.. autoclass:: pymuco.Chord
+.. autoclass:: Chord
     :members:
     :undoc-members:
     :show-inheritance:
@@ -44,7 +44,7 @@ The ``Chord`` class
 The ``CircleOfFifths`` class
 ***********************************
 ```{eval-rst} 
-.. autoclass:: pymuco.CircleOfFifths
+.. autoclass:: CircleOfFifths
     :members:
     :undoc-members:
     :show-inheritance:
@@ -53,7 +53,7 @@ The ``CircleOfFifths`` class
 The ``Enharmonic`` class
 *******************************************
 ```{eval-rst} 
-.. autoclass:: pymuco.Enharmonic
+.. autoclass:: Enharmonic
     :members:
     :undoc-members:
     :show-inheritance:
@@ -62,7 +62,7 @@ The ``Enharmonic`` class
 The ``EnharmonicMapping`` class
 *******************************************
 ```{eval-rst} 
-.. autoclass:: pymuco.EnharmonicMapping
+.. autoclass:: EnharmonicMapping
     :members:
     :undoc-members:
     :show-inheritance:
@@ -71,7 +71,7 @@ The ``EnharmonicMapping`` class
 The ``Interval`` class
 *******************************************
 ```{eval-rst} 
-.. autoclass:: pymuco.Interval
+.. autoclass:: Interval
     :members:
     :undoc-members:
     :show-inheritance:
@@ -80,7 +80,7 @@ The ``Interval`` class
 The ``KeySignature`` class
 *******************************************
 ```{eval-rst} 
-.. autoclass:: pymuco.KeySignature
+.. autoclass:: KeySignature
     :members:
     :undoc-members:
     :show-inheritance:
@@ -89,7 +89,7 @@ The ``KeySignature`` class
 The ``MIDIUtils`` class
 *******************************************
 ```{eval-rst} 
-.. autoclass:: pymuco.MIDIUtils
+.. autoclass:: MIDIUtils
     :members:
     :undoc-members:
     :show-inheritance:
@@ -97,35 +97,35 @@ The ``MIDIUtils`` class
 
 The ``MusicComputationNotation`` class
 *******************************************
-.. autoclass:: pymuco.MusicComputationNotation
+.. autoclass:: MusicComputationNotation
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``Interval`` class
 *******************************************
-.. autoclass:: pymuco.MusicData
+.. autoclass:: MusicData
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``NoteDuration`` class
 *******************************************
-.. autoclass:: pymuco.NoteDuration
+.. autoclass:: NoteDuration
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``NoteFrequencyConverter`` class
 *******************************************
-.. autoclass:: pymuco.NoteFrequencyConverter
+.. autoclass:: NoteFrequencyConverter
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``NoteMapping`` class
 *******************************************
-.. autoclass:: pymuco.NoteMapping
+.. autoclass:: NoteMapping
     :members:
     :undoc-members:
     :show-inheritance:
@@ -133,21 +133,21 @@ The ``NoteMapping`` class
 
 The ``Player`` class
 *******************************************
-.. autoclass:: pymuco.Player
+.. autoclass:: Player
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``Scale`` class
 *******************************************
-.. autoclass:: pymuco.Scale
+.. autoclass:: Scale
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``ScientificPitchNotation`` class
 *******************************************
-.. autoclass:: pymuco.ScientificPitchNotation
+.. autoclass:: ScientificPitchNotation
     :members:
     :undoc-members:
     :show-inheritance:
@@ -155,7 +155,7 @@ The ``ScientificPitchNotation`` class
 
 The ``Tonality`` class
 *******************************************
-.. autoclass:: pymuco.Tonality
+.. autoclass:: Tonality
     :members:
     :undoc-members:
     :show-inheritance:
