@@ -6,7 +6,7 @@ from datetime import datetime
 
 from recommonmark.parser import CommonMarkParser
 
-extensions = ["sphinx.ext.autodoc", "sphinx.ext.napoleon", "recommonmark", "myst_parser"]
+extensions = ["myst_parser"]
 templates_path = ['templates', '_templates', '.templates']
 source_suffix = ['.rst', '.md']
 source_parsers = {
